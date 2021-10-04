@@ -13,7 +13,7 @@ A plugin-free Discord Bot to show current pop for Rust servers
 
 ## Installation
 1. Download the [latest](https://github.com/BurntRouter/RustPopBot/releases/latest) release
-2. Create a Discord Bot and get the token from here
+2. Create a Discord Bot and get the token from [here](https://discord.com/developers/applications)
 3. Fill out the information in the .json file in the conf folder
 4. Create as many .json files with the proper information for all your servers
 5. Sit back and relax
