@@ -12,11 +12,11 @@ A plugin-free Discord Bot to show current pop for Rust servers
 * A Rust server with RCON enabled
 
 ## Installation
-1.) Download the [latest](https://github.com/BurntRouter/RustPopBot/releases/latest) release
-2.) Create a Discord Bot and get the token from here
-3.) Fill out the information in the .json file in the conf folder
-4.) Create as many .json files with the proper information for all your servers
-5.) Sit back and relax
+1. Download the [latest](https://github.com/BurntRouter/RustPopBot/releases/latest) release
+2. Create a Discord Bot and get the token from here
+3. Fill out the information in the .json file in the conf folder
+4. Create as many .json files with the proper information for all your servers
+5. Sit back and relax
 
 ## Special Thanks
 * MrGraversen for making rust-rcon which this uses a slightly modified version of to work - https://github.com/MrGraversen/rust-rcon
